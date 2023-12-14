@@ -1,0 +1,369 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DA77C8B5-6E40-426A-B9E5-4C8235EF14CA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>QLNhaHangPizza</RootNamespace>
+    <AssemblyName>QLNhaHangPizza</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FontAwesome.Sharp, Version=6.3.0.0, Culture=neutral, PublicKeyToken=d16d1e4e568ec10f, processorArchitecture=MSIL">
+      <HintPath>..\packages\FontAwesome.Sharp.6.3.0\lib\net472\FontAwesome.Sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Office.Interop.Excel.15.0.4795.1001\lib\net20\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ChangeColorBtn.cs" />
+    <Compile Include="CustomControls\CircularPictureBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DAO\CommonFunction.cs" />
+    <Compile Include="DAO\DataProvider.cs" />
+    <Compile Include="ForgotPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ForgotPassword.Designer.cs">
+      <DependentUpon>ForgotPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSignUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSignUp.Designer.cs">
+      <DependentUpon>frmSignUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main\frmMainForManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\frmMainForManager.Designer.cs">
+      <DependentUpon>frmMainForManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Dashboard.cs" />
+    <Compile Include="Models\frmDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Models\frmDashboard.designer.cs">
+      <DependentUpon>frmDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Models\frmAddCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Models\frmAddCustomer.Designer.cs">
+      <DependentUpon>frmAddCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Models\frmBillList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Models\frmBillList.Designer.cs">
+      <DependentUpon>frmBillList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Models\frmCheckout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Models\frmCheckout.Designer.cs">
+      <DependentUpon>frmCheckout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Models\frmPOS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Models\frmPOS.Designer.cs">
+      <DependentUpon>frmPOS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Models\frmProductAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Models\frmProductAdd.Designer.cs">
+      <DependentUpon>frmProductAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Models\frmStaffAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Models\frmStaffAdd.Designer.cs">
+      <DependentUpon>frmStaffAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Models\frmTableAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Models\frmTableAdd.Designer.cs">
+      <DependentUpon>frmTableAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Models\frmTableSelect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Models\frmTableSelect.Designer.cs">
+      <DependentUpon>frmTableSelect.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Models\frmWaiterSelect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Models\frmWaiterSelect.Designer.cs">
+      <DependentUpon>frmWaiterSelect.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Models\frmCategoryAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Models\frmCategoryAdd.designer.cs">
+      <DependentUpon>frmCategoryAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Models\ucProduct.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Models\ucProduct.Designer.cs">
+      <DependentUpon>ucProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="View\frmKitchenView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmKitchenView.Designer.cs">
+      <DependentUpon>frmKitchenView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmCategoryView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmCategoryView.designer.cs">
+      <DependentUpon>frmCategoryView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmProductView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmProductView.Designer.cs">
+      <DependentUpon>frmProductView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmReportView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmReportView.designer.cs">
+      <DependentUpon>frmReportView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmStaffView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmStaffView.Designer.cs">
+      <DependentUpon>frmStaffView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmTableView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmTableView.Designer.cs">
+      <DependentUpon>frmTableView.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ForgotPassword.resx">
+      <DependentUpon>ForgotPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSignUp.resx">
+      <DependentUpon>frmSignUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main\frmMainForManager.resx">
+      <DependentUpon>frmMainForManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Models\frmDashboard.resx">
+      <DependentUpon>frmDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Models\frmAddCustomer.resx">
+      <DependentUpon>frmAddCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Models\frmBillList.resx">
+      <DependentUpon>frmBillList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Models\frmCheckout.resx">
+      <DependentUpon>frmCheckout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Models\frmPOS.resx">
+      <DependentUpon>frmPOS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Models\frmProductAdd.resx">
+      <DependentUpon>frmProductAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Models\frmStaffAdd.resx">
+      <DependentUpon>frmStaffAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Models\frmTableAdd.resx">
+      <DependentUpon>frmTableAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Models\frmTableSelect.resx">
+      <DependentUpon>frmTableSelect.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Models\frmWaiterSelect.resx">
+      <DependentUpon>frmWaiterSelect.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Models\frmCategoryAdd.resx">
+      <DependentUpon>frmCategoryAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Models\ucProduct.resx">
+      <DependentUpon>ucProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="View\frmKitchenView.resx">
+      <DependentUpon>frmKitchenView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmCategoryView.resx">
+      <DependentUpon>frmCategoryView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmProductView.resx">
+      <DependentUpon>frmProductView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmReportView.resx">
+      <DependentUpon>frmReportView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmStaffView.resx">
+      <DependentUpon>frmStaffView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmTableView.resx">
+      <DependentUpon>frmTableView.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\ImagesIcon\BackLogin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\ImagesIcon\UserAVT.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\ImagesIcon\BackLogin1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\ImagesIcon\backLogin2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="ChildForm\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\ImagesIcon\AddIcon.png" />
+    <Content Include="bin\Debug\ImagesIcon\backLogin3.png" />
+    <Content Include="bin\Debug\ImagesIcon\categories3.png" />
+    <Content Include="bin\Debug\ImagesIcon\categories4.png" />
+    <Content Include="bin\Debug\ImagesIcon\categoriesIcon1.png" />
+    <Content Include="bin\Debug\ImagesIcon\categoriesIcon2.png" />
+    <Content Include="bin\Debug\ImagesIcon\DeleteIcon.png" />
+    <Content Include="bin\Debug\ImagesIcon\EditIcon.png" />
+    <Content Include="bin\Debug\ImagesIcon\ExitIcon.png" />
+    <Content Include="bin\Debug\ImagesIcon\homeIcon.png" />
+    <Content Include="bin\Debug\ImagesIcon\homeIcon2.png" />
+    <Content Include="bin\Debug\ImagesIcon\homeIcon3.png" />
+    <Content Include="bin\Debug\ImagesIcon\iconAVT3.png" />
+    <Content Include="bin\Debug\ImagesIcon\icons8-new-product-90.png" />
+    <Content Include="bin\Debug\ImagesIcon\icons8-profitability-90.png" />
+    <Content Include="bin\Debug\ImagesIcon\icons8-purchase-order-90.png" />
+    <Content Include="bin\Debug\ImagesIcon\icons8-revenue-90.png" />
+    <Content Include="bin\Debug\ImagesIcon\icons8-user-90.png" />
+    <Content Include="bin\Debug\ImagesIcon\loginIcon.png" />
+    <Content Include="bin\Debug\ImagesIcon\loginIcon1.png" />
+    <Content Include="bin\Debug\ImagesIcon\Logo3.png" />
+    <Content Include="bin\Debug\ImagesIcon\Logo4.png" />
+    <None Include="bin\Debug\ImagesIcon\MainIcon.png" />
+    <None Include="bin\Debug\ImagesIcon\Print.png" />
+    <None Include="bin\Debug\ImagesIcon\ph2.jpg" />
+    <Content Include="bin\Debug\ImagesIcon\product.png" />
+    <Content Include="bin\Debug\ImagesIcon\product2.png" />
+    <Content Include="bin\Debug\ImagesIcon\SearchIcon.png" />
+    <Content Include="bin\Debug\ImagesIcon\staff1.png" />
+    <Content Include="bin\Debug\ImagesIcon\staff2.png" />
+    <Content Include="bin\Debug\ImagesIcon\table1.png" />
+    <Content Include="bin\Debug\ImagesIcon\table2.png" />
+    <Content Include="bin\Debug\ImagesIcon\UserAVT2.png" />
+    <Content Include="bin\Debug\ImagesIcon\XOsX.gif" />
+    <Content Include="bin\Debug\ImagesProduct\7Up.png" />
+    <Content Include="bin\Debug\ImagesProduct\Aquafina.png" />
+    <Content Include="bin\Debug\ImagesProduct\AsianBeef.png" />
+    <Content Include="bin\Debug\ImagesProduct\BeefSpicy.png" />
+    <Content Include="bin\Debug\ImagesProduct\BlackPepper.png" />
+    <Content Include="bin\Debug\ImagesProduct\CheeseLove.png" />
+    <Content Include="bin\Debug\ImagesProduct\CheesePop.png" />
+    <Content Include="bin\Debug\ImagesProduct\ChickenDeluxe.png" />
+    <Content Include="bin\Debug\ImagesProduct\Hawaiian.png" />
+    <Content Include="bin\Debug\ImagesProduct\Mirinda.png" />
+    <Content Include="bin\Debug\ImagesProduct\MiYBoBam.png" />
+    <Content Include="bin\Debug\ImagesProduct\Ocean.png" />
+    <Content Include="bin\Debug\ImagesProduct\Pepsi.png" />
+    <Content Include="bin\Debug\ImagesProduct\Pizga.png" />
+    <Content Include="bin\Debug\ImagesProduct\SaladGa.png" />
+    <Content Include="bin\Debug\ImagesProduct\SeafoodLover.png" />
+    <Content Include="bin\Debug\ImagesProduct\SFPesto.jpg" />
+    <Content Include="bin\Debug\ImagesProduct\SFPesto2.png" />
+    <Content Include="bin\Debug\ImagesProduct\SFRice.png" />
+    <Content Include="bin\Debug\ImagesProduct\TraDao.png" />
+    <Content Include="bin\Debug\ImagesProduct\Vegetable.png" />
+    <None Include="Resources\Logo4.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

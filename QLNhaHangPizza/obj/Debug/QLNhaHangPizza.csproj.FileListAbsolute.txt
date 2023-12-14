@@ -1,0 +1,218 @@
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\NEW_BTL\QLNhaHangPizza\QLNhaHangPizza\bin\Debug\QLNhaHangPizza.exe.config
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\NEW_BTL\QLNhaHangPizza\QLNhaHangPizza\bin\Debug\QLNhaHangPizza.exe
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\NEW_BTL\QLNhaHangPizza\QLNhaHangPizza\bin\Debug\QLNhaHangPizza.pdb
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\NEW_BTL\QLNhaHangPizza\QLNhaHangPizza\bin\Debug\Guna.UI2.dll
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\NEW_BTL\QLNhaHangPizza\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.csproj.AssemblyReference.cache
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\NEW_BTL\QLNhaHangPizza\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.frmLogin.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\NEW_BTL\QLNhaHangPizza\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.Properties.Resources.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\NEW_BTL\QLNhaHangPizza\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.csproj.GenerateResource.cache
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\NEW_BTL\QLNhaHangPizza\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.csproj.CoreCompileInputs.cache
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\NEW_BTL\QLNhaHangPizza\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.csproj.CopyComplete
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\NEW_BTL\QLNhaHangPizza\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.exe
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\NEW_BTL\QLNhaHangPizza\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.pdb
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\NEW_BTL\QLNhaHangPizza\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.frmSignUp.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\NEW_BTL\QLNhaHangPizza\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.ForgotPassword.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\NEW_BTL\QLNhaHangPizza\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.Main.frmMainForManager.resources
+C:\Users\tddnh\Documents\Zalo Received Files\QLNhaHangPizza\QLNhaHangPizza\bin\Debug\QLNhaHangPizza.exe.config
+C:\Users\tddnh\Documents\Zalo Received Files\QLNhaHangPizza\QLNhaHangPizza\bin\Debug\QLNhaHangPizza.exe
+C:\Users\tddnh\Documents\Zalo Received Files\QLNhaHangPizza\QLNhaHangPizza\bin\Debug\QLNhaHangPizza.pdb
+C:\Users\tddnh\Documents\Zalo Received Files\QLNhaHangPizza\QLNhaHangPizza\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\tddnh\Documents\Zalo Received Files\QLNhaHangPizza\QLNhaHangPizza\bin\Debug\Guna.UI2.dll
+C:\Users\tddnh\Documents\Zalo Received Files\QLNhaHangPizza\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.csproj.AssemblyReference.cache
+C:\Users\tddnh\Documents\Zalo Received Files\QLNhaHangPizza\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.ForgotPassword.resources
+C:\Users\tddnh\Documents\Zalo Received Files\QLNhaHangPizza\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.frmLogin.resources
+C:\Users\tddnh\Documents\Zalo Received Files\QLNhaHangPizza\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.frmSignUp.resources
+C:\Users\tddnh\Documents\Zalo Received Files\QLNhaHangPizza\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.Main.frmMainForManager.resources
+C:\Users\tddnh\Documents\Zalo Received Files\QLNhaHangPizza\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.Properties.Resources.resources
+C:\Users\tddnh\Documents\Zalo Received Files\QLNhaHangPizza\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.csproj.GenerateResource.cache
+C:\Users\tddnh\Documents\Zalo Received Files\QLNhaHangPizza\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.csproj.CoreCompileInputs.cache
+C:\Users\tddnh\Documents\Zalo Received Files\QLNhaHangPizza\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.csproj.CopyComplete
+C:\Users\tddnh\Documents\Zalo Received Files\QLNhaHangPizza\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.exe
+C:\Users\tddnh\Documents\Zalo Received Files\QLNhaHangPizza\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.pdb
+C:\Users\tddnh\Documents\Zalo Received Files\QLNhaHangPizza\QLNhaHangPizza\obj\Debug\QlyNhaHangPizza.Model.frmBillList.resources
+C:\Users\tddnh\Documents\Zalo Received Files\QLNhaHangPizza\QLNhaHangPizza\obj\Debug\QlyNhaHangPizza.Model.frmPOS.resources
+C:\Users\tddnh\Documents\Zalo Received Files\QLNhaHangPizza\QLNhaHangPizza\obj\Debug\QlyNhaHangPizza.Model.frmTableSelect.resources
+C:\Users\tddnh\Documents\Zalo Received Files\QLNhaHangPizza\QLNhaHangPizza\obj\Debug\QlyNhaHangPizza.Model.frmWaiterSelect.resources
+C:\Users\tddnh\Documents\Zalo Received Files\QLNhaHangPizza\QLNhaHangPizza\obj\Debug\QlyNhaHangPizza.Model.ucProduct.resources
+C:\Users\tddnh\Documents\Zalo Received Files\QLNhaHangPizza\QLNhaHangPizza\obj\Debug\QlyNhaHangPizza.View.frmKitchenView.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.csproj.AssemblyReference.cache
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.exe
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.pdb
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza\QLNhaHangPizza\bin\Debug\QLNhaHangPizza.exe.config
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza\QLNhaHangPizza\bin\Debug\QLNhaHangPizza.exe
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza\QLNhaHangPizza\bin\Debug\QLNhaHangPizza.pdb
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza\QLNhaHangPizza\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.ForgotPassword.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.frmLogin.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.frmSignUp.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.Main.frmMainForManager.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza\QLNhaHangPizza\obj\Debug\QlyNhaHangPizza.Model.frmBillList.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza\QLNhaHangPizza\obj\Debug\QlyNhaHangPizza.Model.frmPOS.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza\QLNhaHangPizza\obj\Debug\QlyNhaHangPizza.Model.frmTableSelect.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza\QLNhaHangPizza\obj\Debug\QlyNhaHangPizza.Model.frmWaiterSelect.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza\QLNhaHangPizza\obj\Debug\QlyNhaHangPizza.Model.ucProduct.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.Properties.Resources.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza\QLNhaHangPizza\obj\Debug\QlyNhaHangPizza.View.frmKitchenView.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.csproj.GenerateResource.cache
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.csproj.CoreCompileInputs.cache
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.csproj.CopyComplete
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_1\QLNhaHangPizza\bin\Debug\QLNhaHangPizza.exe.config
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_1\QLNhaHangPizza\bin\Debug\QLNhaHangPizza.exe
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_1\QLNhaHangPizza\bin\Debug\QLNhaHangPizza.pdb
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_1\QLNhaHangPizza\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_1\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.csproj.AssemblyReference.cache
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_1\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.ForgotPassword.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_1\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.frmLogin.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_1\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.frmSignUp.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_1\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.Main.frmMainForManager.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_1\QLNhaHangPizza\obj\Debug\QlyNhaHangPizza.Model.frmBillList.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_1\QLNhaHangPizza\obj\Debug\QlyNhaHangPizza.Model.frmPOS.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_1\QLNhaHangPizza\obj\Debug\QlyNhaHangPizza.Model.frmTableSelect.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_1\QLNhaHangPizza\obj\Debug\QlyNhaHangPizza.Model.frmWaiterSelect.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_1\QLNhaHangPizza\obj\Debug\QlyNhaHangPizza.Model.ucProduct.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_1\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.Properties.Resources.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_1\QLNhaHangPizza\obj\Debug\QlyNhaHangPizza.View.frmKitchenView.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_1\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.csproj.GenerateResource.cache
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_1\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.csproj.CoreCompileInputs.cache
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_1\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.csproj.CopyComplete
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_1\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.exe
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_1\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.pdb
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_1\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.Model.frmProductAdd.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_1\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.Model.frmStaffAdd.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_1\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.Model.frmTableAdd.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_1\QLNhaHangPizza\obj\Debug\QlyNhaHangPizza.frmCategoryAdd.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_1\QLNhaHangPizza\obj\Debug\QlyNhaHangPizza.frmCategoryView.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_1\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.View.frmProductView.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_1\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.View.frmStaffView.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_1\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.View.frmTableView.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_1\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.Model.frmCheckout.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_1\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.Model.frmAddCustomer.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_2\QLNhaHangPizza\bin\Debug\QLNhaHangPizza.exe.config
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_2\QLNhaHangPizza\bin\Debug\QLNhaHangPizza.exe
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_2\QLNhaHangPizza\bin\Debug\QLNhaHangPizza.pdb
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_2\QLNhaHangPizza\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_2\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.csproj.AssemblyReference.cache
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_2\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.ForgotPassword.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_2\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.frmLogin.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_2\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.frmSignUp.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_2\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.Main.frmMainForManager.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_2\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.Model.frmAddCustomer.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_2\QLNhaHangPizza\obj\Debug\QlyNhaHangPizza.Model.frmBillList.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_2\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.Model.frmCheckout.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_2\QLNhaHangPizza\obj\Debug\QlyNhaHangPizza.Model.frmPOS.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_2\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.Model.frmProductAdd.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_2\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.Model.frmStaffAdd.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_2\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.Model.frmTableAdd.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_2\QLNhaHangPizza\obj\Debug\QlyNhaHangPizza.Model.frmTableSelect.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_2\QLNhaHangPizza\obj\Debug\QlyNhaHangPizza.Model.frmWaiterSelect.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_2\QLNhaHangPizza\obj\Debug\QlyNhaHangPizza.frmCategoryAdd.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_2\QLNhaHangPizza\obj\Debug\QlyNhaHangPizza.Model.ucProduct.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_2\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.Properties.Resources.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_2\QLNhaHangPizza\obj\Debug\QlyNhaHangPizza.View.frmKitchenView.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_2\QLNhaHangPizza\obj\Debug\QlyNhaHangPizza.frmCategoryView.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_2\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.View.frmProductView.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_2\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.View.frmStaffView.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_2\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.View.frmTableView.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_2\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.csproj.GenerateResource.cache
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_2\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.csproj.CoreCompileInputs.cache
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_2\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.csproj.CopyComplete
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_2\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.exe
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_2\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.pdb
+C:\Users\tddnh\Downloads\QLNhaHangPizza_2\QLNhaHangPizza\bin\Debug\QLNhaHangPizza.exe.config
+C:\Users\tddnh\Downloads\QLNhaHangPizza_2\QLNhaHangPizza\bin\Debug\QLNhaHangPizza.exe
+C:\Users\tddnh\Downloads\QLNhaHangPizza_2\QLNhaHangPizza\bin\Debug\QLNhaHangPizza.pdb
+C:\Users\tddnh\Downloads\QLNhaHangPizza_2\QLNhaHangPizza\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\tddnh\Downloads\QLNhaHangPizza_2\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.csproj.AssemblyReference.cache
+C:\Users\tddnh\Downloads\QLNhaHangPizza_2\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.ForgotPassword.resources
+C:\Users\tddnh\Downloads\QLNhaHangPizza_2\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.frmLogin.resources
+C:\Users\tddnh\Downloads\QLNhaHangPizza_2\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.frmSignUp.resources
+C:\Users\tddnh\Downloads\QLNhaHangPizza_2\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.Main.frmMainForManager.resources
+C:\Users\tddnh\Downloads\QLNhaHangPizza_2\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.Model.frmAddCustomer.resources
+C:\Users\tddnh\Downloads\QLNhaHangPizza_2\QLNhaHangPizza\obj\Debug\QlyNhaHangPizza.Model.frmBillList.resources
+C:\Users\tddnh\Downloads\QLNhaHangPizza_2\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.Model.frmCheckout.resources
+C:\Users\tddnh\Downloads\QLNhaHangPizza_2\QLNhaHangPizza\obj\Debug\QlyNhaHangPizza.Model.frmPOS.resources
+C:\Users\tddnh\Downloads\QLNhaHangPizza_2\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.Model.frmProductAdd.resources
+C:\Users\tddnh\Downloads\QLNhaHangPizza_2\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.Model.frmStaffAdd.resources
+C:\Users\tddnh\Downloads\QLNhaHangPizza_2\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.Model.frmTableAdd.resources
+C:\Users\tddnh\Downloads\QLNhaHangPizza_2\QLNhaHangPizza\obj\Debug\QlyNhaHangPizza.Model.frmTableSelect.resources
+C:\Users\tddnh\Downloads\QLNhaHangPizza_2\QLNhaHangPizza\obj\Debug\QlyNhaHangPizza.Model.frmWaiterSelect.resources
+C:\Users\tddnh\Downloads\QLNhaHangPizza_2\QLNhaHangPizza\obj\Debug\QlyNhaHangPizza.frmCategoryAdd.resources
+C:\Users\tddnh\Downloads\QLNhaHangPizza_2\QLNhaHangPizza\obj\Debug\QlyNhaHangPizza.Model.ucProduct.resources
+C:\Users\tddnh\Downloads\QLNhaHangPizza_2\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.Properties.Resources.resources
+C:\Users\tddnh\Downloads\QLNhaHangPizza_2\QLNhaHangPizza\obj\Debug\QlyNhaHangPizza.View.frmKitchenView.resources
+C:\Users\tddnh\Downloads\QLNhaHangPizza_2\QLNhaHangPizza\obj\Debug\QlyNhaHangPizza.frmCategoryView.resources
+C:\Users\tddnh\Downloads\QLNhaHangPizza_2\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.View.frmProductView.resources
+C:\Users\tddnh\Downloads\QLNhaHangPizza_2\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.View.frmStaffView.resources
+C:\Users\tddnh\Downloads\QLNhaHangPizza_2\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.View.frmTableView.resources
+C:\Users\tddnh\Downloads\QLNhaHangPizza_2\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.csproj.GenerateResource.cache
+C:\Users\tddnh\Downloads\QLNhaHangPizza_2\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.csproj.CoreCompileInputs.cache
+C:\Users\tddnh\Downloads\QLNhaHangPizza_2\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.csproj.CopyComplete
+C:\Users\tddnh\Downloads\QLNhaHangPizza_2\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.exe
+C:\Users\tddnh\Downloads\QLNhaHangPizza_2\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.pdb
+C:\Users\tddnh\Downloads\QLNhaHangPizza_2\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.frmDashboard.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_3\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.csproj.AssemblyReference.cache
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_3\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.ForgotPassword.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_3\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.frmLogin.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_3\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.frmSignUp.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_3\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.Main.frmMainForManager.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_3\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.frmDashboard.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_3\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.Model.frmAddCustomer.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_3\QLNhaHangPizza\obj\Debug\QlyNhaHangPizza.Model.frmBillList.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_3\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.Model.frmCheckout.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_3\QLNhaHangPizza\obj\Debug\QlyNhaHangPizza.Model.frmPOS.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_3\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.Model.frmProductAdd.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_3\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.Model.frmStaffAdd.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_3\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.Model.frmTableAdd.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_3\QLNhaHangPizza\obj\Debug\QlyNhaHangPizza.Model.frmTableSelect.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_3\QLNhaHangPizza\obj\Debug\QlyNhaHangPizza.Model.frmWaiterSelect.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_3\QLNhaHangPizza\obj\Debug\QlyNhaHangPizza.frmCategoryAdd.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_3\QLNhaHangPizza\obj\Debug\QlyNhaHangPizza.Model.ucProduct.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_3\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.Properties.Resources.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_3\QLNhaHangPizza\obj\Debug\QlyNhaHangPizza.View.frmKitchenView.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_3\QLNhaHangPizza\obj\Debug\QlyNhaHangPizza.frmCategoryView.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_3\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.View.frmProductView.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_3\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.View.frmStaffView.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_3\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.View.frmTableView.resources
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_3\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.csproj.GenerateResource.cache
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_3\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.csproj.CoreCompileInputs.cache
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_3\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.exe
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_3\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.pdb
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_3\QLNhaHangPizza\bin\Debug\QLNhaHangPizza.exe.config
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_3\QLNhaHangPizza\bin\Debug\QLNhaHangPizza.exe
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_3\QLNhaHangPizza\bin\Debug\QLNhaHangPizza.pdb
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_3\QLNhaHangPizza\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_3\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.csproj.CopyComplete
+C:\Users\DucPC\Documents\LapTrinhTrucQuan\Code_Update_LTTQ\QLNhaHangPizza_3\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.View.frmReportView.resources
+C:\Users\tddnh\OneDrive\Máy tính\QLNhaHangPizza_3\QLNhaHangPizza\bin\Debug\QLNhaHangPizza.exe.config
+C:\Users\tddnh\OneDrive\Máy tính\QLNhaHangPizza_3\QLNhaHangPizza\bin\Debug\QLNhaHangPizza.exe
+C:\Users\tddnh\OneDrive\Máy tính\QLNhaHangPizza_3\QLNhaHangPizza\bin\Debug\QLNhaHangPizza.pdb
+C:\Users\tddnh\OneDrive\Máy tính\QLNhaHangPizza_3\QLNhaHangPizza\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\tddnh\OneDrive\Máy tính\QLNhaHangPizza_3\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.csproj.AssemblyReference.cache
+C:\Users\tddnh\OneDrive\Máy tính\QLNhaHangPizza_3\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.ForgotPassword.resources
+C:\Users\tddnh\OneDrive\Máy tính\QLNhaHangPizza_3\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.frmLogin.resources
+C:\Users\tddnh\OneDrive\Máy tính\QLNhaHangPizza_3\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.frmSignUp.resources
+C:\Users\tddnh\OneDrive\Máy tính\QLNhaHangPizza_3\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.Main.frmMainForManager.resources
+C:\Users\tddnh\OneDrive\Máy tính\QLNhaHangPizza_3\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.frmDashboard.resources
+C:\Users\tddnh\OneDrive\Máy tính\QLNhaHangPizza_3\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.Model.frmAddCustomer.resources
+C:\Users\tddnh\OneDrive\Máy tính\QLNhaHangPizza_3\QLNhaHangPizza\obj\Debug\QlyNhaHangPizza.Model.frmBillList.resources
+C:\Users\tddnh\OneDrive\Máy tính\QLNhaHangPizza_3\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.Model.frmCheckout.resources
+C:\Users\tddnh\OneDrive\Máy tính\QLNhaHangPizza_3\QLNhaHangPizza\obj\Debug\QlyNhaHangPizza.Model.frmPOS.resources
+C:\Users\tddnh\OneDrive\Máy tính\QLNhaHangPizza_3\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.Model.frmProductAdd.resources
+C:\Users\tddnh\OneDrive\Máy tính\QLNhaHangPizza_3\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.Model.frmStaffAdd.resources
+C:\Users\tddnh\OneDrive\Máy tính\QLNhaHangPizza_3\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.Model.frmTableAdd.resources
+C:\Users\tddnh\OneDrive\Máy tính\QLNhaHangPizza_3\QLNhaHangPizza\obj\Debug\QlyNhaHangPizza.Model.frmTableSelect.resources
+C:\Users\tddnh\OneDrive\Máy tính\QLNhaHangPizza_3\QLNhaHangPizza\obj\Debug\QlyNhaHangPizza.Model.frmWaiterSelect.resources
+C:\Users\tddnh\OneDrive\Máy tính\QLNhaHangPizza_3\QLNhaHangPizza\obj\Debug\QlyNhaHangPizza.frmCategoryAdd.resources
+C:\Users\tddnh\OneDrive\Máy tính\QLNhaHangPizza_3\QLNhaHangPizza\obj\Debug\QlyNhaHangPizza.Model.ucProduct.resources
+C:\Users\tddnh\OneDrive\Máy tính\QLNhaHangPizza_3\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.Properties.Resources.resources
+C:\Users\tddnh\OneDrive\Máy tính\QLNhaHangPizza_3\QLNhaHangPizza\obj\Debug\QlyNhaHangPizza.View.frmKitchenView.resources
+C:\Users\tddnh\OneDrive\Máy tính\QLNhaHangPizza_3\QLNhaHangPizza\obj\Debug\QlyNhaHangPizza.frmCategoryView.resources
+C:\Users\tddnh\OneDrive\Máy tính\QLNhaHangPizza_3\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.View.frmProductView.resources
+C:\Users\tddnh\OneDrive\Máy tính\QLNhaHangPizza_3\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.View.frmReportView.resources
+C:\Users\tddnh\OneDrive\Máy tính\QLNhaHangPizza_3\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.View.frmStaffView.resources
+C:\Users\tddnh\OneDrive\Máy tính\QLNhaHangPizza_3\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.View.frmTableView.resources
+C:\Users\tddnh\OneDrive\Máy tính\QLNhaHangPizza_3\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.csproj.GenerateResource.cache
+C:\Users\tddnh\OneDrive\Máy tính\QLNhaHangPizza_3\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.csproj.CoreCompileInputs.cache
+C:\Users\tddnh\OneDrive\Máy tính\QLNhaHangPizza_3\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.csproj.CopyComplete
+C:\Users\tddnh\OneDrive\Máy tính\QLNhaHangPizza_3\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.exe
+C:\Users\tddnh\OneDrive\Máy tính\QLNhaHangPizza_3\QLNhaHangPizza\obj\Debug\QLNhaHangPizza.pdb
